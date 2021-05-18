@@ -1,0 +1,16 @@
+.myProducts {
+  padding-top: 30px;
+  padding-left: 20px;
+  border: 5px solid black;
+  background: linear-gradient(
+    110.8210951619775deg,
+    rgba(246, 245, 245, 1) 5.533854166666667%,
+    rgba(220, 220, 220, 1) 96.67968749999999%
+  );
+}
+.btns {
+  margin-left: 8px;
+}
+label {
+  font-weight: bold;
+}
